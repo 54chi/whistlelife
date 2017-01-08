@@ -1,0 +1,10 @@
+{
+  "name": "whistle",
+  "version": "1.0.0",
+  "description": "Whistle Alexa skill using the serverless framework.",
+  "author": "54chi for the CES 2017 Hackathon",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.79.0"
+  }
+}
